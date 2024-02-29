@@ -6,6 +6,7 @@ import SvelteIcon from "$lib/images/SvelteIcon.svelte";
 import TailwindCssIcon from "$lib/images/TailwindCssIcon.svelte";
 import ElysiaImage from "$lib/images/elysia.png";
 import {t} from '$lib/Translate/i18n';
+import GithubIcon from "$lib/images/GithubIcon.svelte";
 </script>
 
 <section id="footer" class="bg-dark">
@@ -14,9 +15,9 @@ import {t} from '$lib/Translate/i18n';
             <p class="text-white text-base font-medium"> <span class="text-primary">&copy;</span> Dio Maulana</p>
             <div class="flex items-center">
                 <!--youtube-->
-                <a href="https://youtube.com" target="_blank"
+                <a href="https://github.com/maulanadiooo" target="_blank"
                    class="socmed-icon">
-                    <YoutubeIcon widthSvg={10}/>
+                    <GithubIcon widthSvg={10}/>
                 </a>
                 <!--Instagram -->
                 <a href="https://instagram.com/maulanadioo" target="_blank"

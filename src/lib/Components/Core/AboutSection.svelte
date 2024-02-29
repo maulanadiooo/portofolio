@@ -1,6 +1,6 @@
 <script>
     import InstagramIcon from "$lib/images/InstagramIcon.svelte";
-    import YoutubeIcon from "$lib/images/YoutubeIcon.svelte";
+    import GithubIcon from "$lib/images/GithubIcon.svelte";
     import LinkedinIcon from "$lib/images/LinkedinIcon.svelte";
     import {t} from '$lib/Translate/i18n';
 </script>
@@ -22,9 +22,9 @@
                 </p>
                 <div class="flex items-center mb-6">
                     <!--youtube-->
-                    <a href="https://youtube.com" target="_blank"
+                    <a href="https://github.com/maulanadiooo" target="_blank"
                        class="socmed-icon">
-                        <YoutubeIcon/>
+                        <GithubIcon />
                     </a>
                     <!--Instagram -->
                     <a href="https://instagram.com/maulanadioo" target="_blank"
