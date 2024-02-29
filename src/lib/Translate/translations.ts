@@ -23,7 +23,7 @@ export default {
         "contact.phone": 'Nomor Telpon',
         "contact.message": 'Pesan',
         "contact.sendMessage": 'Kirim Pesan',
-        "footer.websiteMade": 'Website ini dibuat dengan menggunakan'
+        "footer.websiteMade": 'Website ini dibuat menggunakan'
     },
     en: {
         "hero.greeting": 'Hallo 👋, I\'m',
