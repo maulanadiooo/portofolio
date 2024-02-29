@@ -36,7 +36,7 @@
                 <div class="mt-10 relative lg:mt-0 right-0">
                     <img src={photoProfile} alt="Dio Maulana" class="relative z-10 mx-auto" width={300}/>
                     <span class="absolute bottom-16 left-1/2 -translate-x-1/2 md:scale-125 lg:bottom-0">
-                        <svg width="500" height="500" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                        <svg width="350" height="350" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
   <path fill="#06b6d4"
         d="M26.1,-22.3C42.5,-9.7,70.4,-4.9,78.3,7.9C86.2,20.6,73.9,41.1,57.5,46.7C41.1,52.2,20.6,42.7,0.3,42.4C-20,42.1,-40.1,51.1,-46.8,45.6C-53.6,40.1,-47.1,20,-42.9,4.2C-38.7,-11.6,-36.7,-23.2,-29.9,-35.7C-23.2,-48.3,-11.6,-61.8,-3.4,-58.5C4.9,-55.1,9.7,-34.8,26.1,-22.3Z"
         transform="translate(100 100) scale(1.2)"/>
