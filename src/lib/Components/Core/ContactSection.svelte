@@ -39,6 +39,10 @@
                         const response = await CallApi({url, method: 'POST', data})
                         if (response.status) {
                             isSuccessSent = true;
+                            email = '';
+                            phone = 0;
+                            message = '';
+                            name = '';
                         } else {
                             isSuccessSent = false;
                         }
