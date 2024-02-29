@@ -20,6 +20,7 @@ export default {
         "contact.desc2": 'Silakan hubungi saya melalui form kontak dibawah ini.',
         "contact.name": 'Nama',
         "contact.email": 'Email',
+        "contact.phone": 'Nomor Telpon',
         "contact.message": 'Pesan',
         "contact.sendMessage": 'Kirim Pesan',
         "footer.websiteMade": 'Website ini dibuat dengan menggunakan'
@@ -45,6 +46,7 @@ export default {
         "contact.desc2": 'Please contact me via the contact form below.',
         "contact.name": 'Name',
         "contact.email": 'Email',
+        "contact.phone": 'Phone Number',
         "contact.message": 'Message',
         "contact.sendMessage": 'Send Message',
         "footer.websiteMade": 'This website was made using'
